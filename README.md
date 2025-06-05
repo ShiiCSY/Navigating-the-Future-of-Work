@@ -7,7 +7,7 @@ Job Market Trend Analysis to identify AI replacing Jobs
 
 
 <img width="1006" alt="Screenshot 2025-06-04 at 6 53 15 PM" src="https://github.com/user-attachments/assets/10e79665-1ac1-42fa-9b69-ee21776705e6" />
-
+https://public.tableau.com/app/profile/shih.yi.chen/viz/BIfinalproject_17338511313740/Dashboard1
 
 
 
@@ -48,9 +48,9 @@ Our goal: Empower new graduates to make strategic career choices by leveraging i
 
 <h1>Analysis</h1>
 
-<br>Automation Risk vs. Salary: Jobs with low automation risk tend to have higher salaries.
-<br>Growth Projection vs. Salary: A positive correlation exists between growth potential and salary levels.
-<br>Skills vs. Salary: High-demand skills like Python, Machine Learning, and UX/UI Design show strong average salaries.
+<br>**Automation Risk vs. Salary:** Jobs with low automation risk tend to have higher salaries.
+<br>**Growth Projection vs. Salary:** A positive correlation exists between growth potential and salary levels.
+<br>**Skills vs. Salary:** High-demand skills like Python, Machine Learning, and UX/UI Design show strong average salaries.
 
 
 dataset used:  [AI-Powered Job Market Insights](https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights)
